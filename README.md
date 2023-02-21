@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- Tg: https://t.me/uc2dn
+- <div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=bubalehich&style=flat-square&color=blue" alt=""/>
+</div>
+
+
 <!--
 **bubalehich/bubalehich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
