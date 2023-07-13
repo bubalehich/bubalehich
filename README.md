@@ -1,8 +1,6 @@
 ### Hi there, I,m Jane 👋
 
 - 🌚 Meme developer
-- ☕ I’m currently learning java from the very beginning:3
-- 🐘 PHP freelance (with stack: Symfony 4+, Admin Bundle, API Platform, Twig, Docker, Postgres, etc.)
 - ⛄ You can directly message me: https://t.me/uc2dn
 - <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=bubalehich&style=flat-square&color=blue" alt=""/>
