@@ -1,10 +1,24 @@
 ### Hi there, I,m Jane 👋
 
 - 🌚 Meme developer
-- ⛄ You can directly message me: https://t.me/uc2dn
 - <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=bubalehich&style=flat-square&color=blue" alt=""/>
-</div>
+  </div>
+
+#### Contacts:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bubalehich)
+<a href="mailto:janeridebmx@gmail.com">
+  <img height="40" width="50" alt="mail" src="https://cdn.simpleicons.org/gmail/000000"/> 
+</a>
+[<img height="40" width="40" alt="telegram" src="https://cdn.simpleicons.org/telegram/000000"/>](https://t.me/janeridebmx)
+
+ #### Some stats:  
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bubalehich)](https://github.com/anuraghazra/github-readme-stats)
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bubalehich&show_icons=true&count_private=true)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=bubalehich)  
 
 
 <!--
